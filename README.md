@@ -38,14 +38,14 @@ You only need **Python 3.8 or newer** installed on your system.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/[Your-GitHub-Username]/[Your-Repo-Name].git
+    git clone https://github.com/gitdhruv-tech/CRUD-on-File.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd [Your-Repo-Name]
+    cd CRUD-on-File
     ```
 3.  **Ensure the main script is present:**
-    The file containing the code (e.g., `file_utility.py` or similar) should be in this directory.
+    The file containing the code (e.g., main.py or similar) should be in this directory.
 
 -----
 
@@ -54,7 +54,7 @@ You only need **Python 3.8 or newer** installed on your system.
 Run the script directly from your terminal. The application will start and present the main menu.
 
 ```bash
-python [your_script_name].py
+python main.py
 ```
 
 ### Main Menu Operations
