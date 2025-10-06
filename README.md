@@ -92,7 +92,6 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 -----
 
 ## 📧 Contact
+Dhruv Maheshwari - dhruv.mahe.003@gmail.com
 
-[Your Name] - [Your Email or LinkedIn Profile URL]
-
-Project Link: `https://github.com/[Your-GitHub-Username]/[Your-Repo-Name]`
+Project Link: https://github.com/gitdhruv-tech/CRUD-on-File
